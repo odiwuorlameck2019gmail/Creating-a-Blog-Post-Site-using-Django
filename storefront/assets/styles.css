@@ -1,0 +1,22 @@
+body{
+    background:blue;
+    background-image: url(/static/stars.jpg);
+}
+body *{
+    font-family:Ubuntu;
+}
+h1,h2,h3,h4,h5{
+    font-weight:normal;
+    margin:0;
+}
+
+a,a:hover,a:visited{
+    color:rgb(38, 0, 255);
+    text-decoration:none;
+}
+
+.article{
+    background:scroll;
+    background-color: yellow;
+
+}
